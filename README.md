@@ -17,3 +17,12 @@ If you find **Human-Parts** dataset or **DID-Net** useful in your research, plea
   		journal={arXiv preprint arXiv:****},
   		year={2019}
     }
+
+### Data Downloads
+
+BaiduDrive Download: https://pan.baidu.com/s/1bFDttum-6v1qbr23mpaNaw
+
+### Contact
+[Xiaojie Li](xiaojieli@buaa.edu.cn)
+
+Questions can also be left as issues in the repository. 
