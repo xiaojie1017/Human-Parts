@@ -24,6 +24,8 @@ BaiduDrive Link: https://pan.baidu.com/s/1bFDttum-6v1qbr23mpaNaw
 
 DropBox Link: https://www.dropbox.com/s/3xxi4b7grx83hxi/Priv_personpart.tar?dl=0
 
+Google Drive Link: https://drive.google.com/file/d/1L7oxFqRi63APVi-ffeK3L7dF_qTkZmbW/view?usp=sharing
+
 ### Contact
 [Xiaojie Li](xiaojieli@buaa.edu.cn)
 
