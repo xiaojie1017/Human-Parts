@@ -20,7 +20,8 @@ If you find **Human-Parts** dataset or **DID-Net** useful in your research, plea
 
 ### Data Downloads
 
-BaiduDrive Download: https://pan.baidu.com/s/1bFDttum-6v1qbr23mpaNaw
+BaiduDrive Link: https://pan.baidu.com/s/1bFDttum-6v1qbr23mpaNaw
+DropBox Link: https://www.dropbox.com/s/3xxi4b7grx83hxi/Priv_personpart.tar?dl=0
 
 ### Contact
 [Xiaojie Li](xiaojieli@buaa.edu.cn)
